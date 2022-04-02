@@ -113,6 +113,14 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 16: Friday, April 1, 2022
+
+**Today's Progress:** Started section 8 (Intermediate Swift Programming - Control Flow and Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I learned a cool way to code whether or not a year is a leap year. I finished the coding exercise, but need to finish setting up the function for the Egg Timer Project. I got stuck and once again, I'm sure I'm missing something simple. I'll think it through and try again tomorrow. It was also a nice review of the If-Else Statement. One thing I learned is that I know how to solve the problem with code, but I absolutely have to work out what is being asked of me. Sometimes, that's the tricky part.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
