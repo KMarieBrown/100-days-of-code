@@ -1,4 +1,4 @@
-# 100 Days Of Code Log - [K. Marie Brown](https://github.com/KMarieBrown)
+# 100 Days Of Code Log - [K. Marie Brown](https://twitter.com/KMarieBrown)
 
 ## Day 1: Saturday, March 12, 2022
 
