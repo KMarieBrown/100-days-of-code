@@ -121,6 +121,46 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 17: Saturday, April 2, 2022
+
+**Today's Progress:** Continued working on section 8 (Intermediate Swift Programming - Control Flow and Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I'm doing well with challenges today. I'm looking up and mostly understanding the documentation for items I'm unfamiliar with. I worked on Switch Statements and Dictionaries. I had a thought today that I've never had so much fun making mistakes before. Let the learning, mistakes and fun continue.
+
+**Link(s) to work:** n/a.
+
+## Day 18: Tuesday, April 5, 2022
+
+**Today's Progress:** Continued working on section 8 (Intermediate Swift Programming - Control Flow and Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I didn’t get as much done today as I wanted, but I’m super proud of the way I completed each challenge. I feel like my brain is really starting to train itself to think like a dev.
+
+**Link(s) to work:** n/a.
+
+## Day 19: Wednesday, April 6, 2022
+
+**Today's Progress:** Completed section 8 (Intermediate Swift Programming - Control Flow and Optionals) and started section 9 (iOS App Design Patters and Code Structuring) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I worked on 2D Arrays and learned a 5 step approach to debug apps. I like how she explained the Arrays, but I'll have to use them more to commit them to memory. I also feel more equipped with her 5 step approach, but I need to work more on step 3 (What does your expectation depend on). I'm not sure I'm understanding it the way it is explained. I need to put it in my own words. I also completed an egg timer and a quizzer project. It was a somewhat productive day.
+
+**Link(s) to work:** n/a.
+
+## Day 20: Friday, April 8, 2022
+
+**Today's Progress:** Continued working on section 9 (iOS App Design Patters and Code Structuring) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:**  I learned about structures, methods and properties. I think Dr. Yu did a great job of explaining these and I'm actually excited to use them. I can see that they'll be useful in coding. And it's very likely that she's added lots of practice in the upcoming modules.
+
+**Link(s) to work:** n/a.
+
+## Day 21: Saturday, April 9, 2022
+
+**Today's Progress:** Continued working on section 9 (iOS App Design Patters and Code Structuring) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I started off a little rusty-brained today, but I kept going and things started to click. I started working on the MVC Design Pattern and implementing it into my Quizzler Project. I will just take this slowly and make sure I understand what code we're moving and why.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
