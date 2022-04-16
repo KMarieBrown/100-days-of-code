@@ -161,6 +161,22 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 22: Sunday, April 10, 2022
+
+**Today's Progress:** Completed section 9 (iOS App Design Patters and Code Structuring) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** Today was tough. I feel like my head is full of information, but it's floating around in an unorganized way. It's just all jumbled. I need to review this module and maybe a bit of the previous module. In the past, I just kept moving forward, because I was trying to learn in a "respectable" amount of time. This is the time that I set for myself, mind you. I'm sure that led to more frustrations and burnout. I'll take my time with this. I hope the payoff is huge in the end. Because, I'm making a lot of sacrifices the longer I take to learn and get a job.
+
+**Link(s) to work:** n/a.
+
+## Day 23: Friday, April 15, 2022
+
+**Today's Progress:** Reviewed sections 8 (function sections) and section 9 (iOS App Design Patters and Code Structuring) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I feel good today. I am working on an optional multiple choice quiz app project and I see a change in my thinking. I'm really happy about this. I feel that I will be able to solve this exercise. Either way, I am ecstatic to experience the growth in my analytical and problem solving skills.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
