@@ -177,6 +177,38 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 24: Sunday, April 17, 2022
+
+**Today's Progress:** Started section 10 (iOS App Design Pattern Challenge) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I'm feeling good about my progress, today. I'm so happy I completed the optional multiple choice quiz project. It helped to prepare me for this and gave me a resource to review when I got stuck. So far so good. The more I work through it, the better I understand structures.
+
+**Link(s) to work:** n/a.
+
+## Day 25: Monday, April 18, 2022
+
+**Today's Progress:** Continued section 10 (iOS App Design Pattern Challenge) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I made it to step 4 today. I'm feeling really good, because I thought I wouldn't figure out step 3. Yet, I did. I need to think and plan for step 4. I started it, but I'm missing something so far. I'll sleep on it and start off fresh again tomorrow.
+
+**Link(s) to work:** n/a.
+
+## Day 26: Tuesday, April 19, 2022
+
+**Today's Progress:** Continued section 10 (iOS App Design Pattern Challenge) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I figured out the previous issues, so now I'm almost done with step 5. My brain is content for tonight.
+
+**Link(s) to work:** n/a.
+
+## Day 27: Thursday, April 21, 2022
+
+**Today's Progress:** Continued section 10 (iOS App Design Pattern Challenge) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I struggled through tonight. I was even a bit more confused after starting, stopping and having previously moved some of the code from the view controller to the story brain file. I felt it was time to move on. I pulled down and scanned the code for direction and I saw that I was making it way more complex than it had to be. My mind is blown.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
