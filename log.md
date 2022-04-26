@@ -209,6 +209,14 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 28: Thursday, April 25, 2022
+
+**Today's Progress:** Started section 11 (Advanced Swift Programming - Classes, Inheritance & Advanced Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** So, I had to do a double take after reading "Advanced" in the  title to this section. I don't know hos I got here so soon. It feels quick, but maybe time flies when you're having fun. I still have many sections to go, but it feels good to progress. Today's lesson was on UISliders. However, the bigger less was to get over the pre-fear and intimidation I feel surrounding coding and exercises. It's proven that I feel that way until I get started. It's like I have 2 different hormones releasing. The first one that I could likely avoid or at least shorten by getting right down to business. And the second, good feeling that comes when I start coding.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
