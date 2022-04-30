@@ -225,6 +225,30 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 30: Wednesday, April 27, 2022
+
+**Today's Progress:** Continued section 11 (Advanced Swift Programming - Classes, Inheritance & Advanced Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I went over structures vs classes. Something about classes makes me really excited. I feel like I'd want to use them all the time, but I did learn that structures should be the default choice when possible. This is really an amazing course. Even when Dr. Yu starts to go really fast when she's explaining something. I just rewind the video or read the transcript to catch it all. I also read quite a bit of documentation on the UIViewController.
+
+**Link(s) to work:** n/a.
+
+## Day 31: Thursday, April 28, 2022
+
+**Today's Progress:** Continued section 11 (Advanced Swift Programming - Classes, Inheritance & Advanced Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I wanted to research a solution to a challenge, but I couldn't figure out how to form my question. This has happened to me before. I guess this is something that will come with more practice and maybe will have to click, too. Overall, I feel good about today. I'm following.
+
+**Link(s) to work:** n/a.
+
+## Day 32: Friday, April 29, 2022
+
+**Today's Progress:** Completed section 11 (Advanced Swift Programming - Classes, Inheritance & Advanced Optionals) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I completed the BMI Calculator app today and I got really close to finishing it on my own. I got all of the errors to disappear, but I wasn't sure how to pull the data in. I did have one idea that I didn't try, that ended up being part of the solution. I need to keep trying and trust myself. I have to be willing to explore the options that come to mind.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
