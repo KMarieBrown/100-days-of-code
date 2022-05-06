@@ -257,6 +257,22 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 34: Wednesday, May 4, 2022
+
+**Today's Progress:** Completed section 12 (Advanced Swift Programming Challenge) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I feel great. I completed the bill splitting, tip calculator app and it really only took me 2 days. After each set of steps I looked at the way Dr. Yu completed it and although I did it differently each time, it still worked. I'm really going to love this ability to do things in more ways than one. It's so freeing and creative compared to my previous career.
+
+**Link(s) to work:** n/a.
+
+## Day 35: Thursday, May 5, 2022
+
+**Today's Progress:** Started section 13 (Networking, JSON Parsing, APIs and Core Location) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I am happy to start this section. I know that working with APIs is a pretty important skill. I also have some experience with JavaScript and APIs, so we'll see if that helps. Tonight, I only coded for an hour because I'm on vacation and was spending time with family. However, I did get to work with dark mode and vector images. I have a huge smile on my face. I'm looking forward to the next lesson.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
