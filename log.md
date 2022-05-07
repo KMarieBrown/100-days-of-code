@@ -273,6 +273,14 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 36: Friday, May 6, 2022
+
+**Today's Progress:** Continued section 13 (Networking, JSON Parsing, APIs and Core Location) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** Dr. Yu continues to keep things interesting. I continue to enjoy this course. Also, I've noticed that overall I have more confidence. That alone feels great. I feel like Dr. Yu is teaching a bit faster, so I have to pause a lot more to keep up. Sometimes it feels like I'm trying to listen, understand and type all at once. I look forward to coding daily. I'm having fun and learning. I watched a taped live code session today and received some valuable information from that.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
