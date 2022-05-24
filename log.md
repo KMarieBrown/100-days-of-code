@@ -281,6 +281,46 @@ and continued on with section 4 (Swift Programming Basics - Collections, Constan
 
 **Link(s) to work:** n/a.
 
+## Day 37: Thursday, May 19, 2022
+
+**Today's Progress:** Continued section 13 (Networking, JSON Parsing, APIs and Core Location) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I took in lot today and I feel like my head is spinning with information. So, I've decided to read deeper into each area before moving on to the next lesson. I'm contemplating going back to past modules and re-completing a few challenges, as well. This is where I feel like a BootCamp would be beneficial to me. Maybe having a laid out curriculum, instead of having to come up with my own, would release some of the worry about whether or not I'm making the best decisions on my self-taught iOS Development journey. However, money/tuition is definitely a roadblock to attending a BootCamp.
+
+**Link(s) to work:** n/a.
+
+## Day 38: Saturday, May 21, 2022
+
+**Today's Progress:** Started reading the Swift Programming Language guide functions and closures sections.
+
+**Thoughts:** I need to make sure I have a working understanding of these two before I move on with the course. I haven't read like this in a while, so I had to reread when I found myself drifting off into space. Overall, it was a very helpful review and I learned a couple of new things.
+
+**Link(s) to work:** n/a.
+
+## Day 39: Saturday, May 22, 2022
+
+**Today's Progress:** I completed reading both the functions and closures sections in the Swift Programming Language guide.
+
+**Thoughts:** I understand that they are still to be referred to. I did not read to memorize, as that's a tip I've been hearing repeatedly. I surprised myself that I understood much of what was going on and I found the examples to be really helpful. Also, as confirmation, I was listening to an old podcast by Suitcase Coder and I had a 💡 moment. In school we had reading assignments then attended a lecture to apply what we learned in our reading. I’m going to try this by reading before proceeding to the next section/module in my course as she suggested.
+
+**Link(s) to work:** n/a.
+
+## Day 40: Monday, May 23, 2022
+
+**Today's Progress:** Continued section 13 (Networking, JSON Parsing, APIs and Core Location) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I worked on my weather app project and learned about decoding JSON. That was cool. I hit a misunderstanding roadblock and I was surprised at how quickly my lightbulb switched and caught on. I was also excited to watch a little more the last part of a 3-part series that I've been watching where the live stream project is a pomodoro app. I pick up little trinkets of information everywhere.
+
+**Link(s) to work:** n/a.
+
+## Day 41: Tuesday, May 24, 2022
+
+**Today's Progress:** Continued section 13 (Networking, JSON Parsing, APIs and Core Location) of Udemy's iOS & Swift - The Complete iOS App Development Bootcamp course.
+
+**Thoughts:** I'm still trying to get my schedule into a groove. I code really good at night, but I also need to sleep so that's inconvenient. I think I might be doing too many things during the day and by the time I start coding I'm already getting exhausted. I need to play around with coding times some more. Moving along on my weather app, I didn't completely understand today's lesson. So, when we got to the challenge I turned the video off and went to the Swift Programming Language guide again. I would like to read the full documentation on Structures and Classes, and Protocols, as I did with functions and closures. I need to make sure I understand delegates, also. And as always, I need to make sure I know what she's asking for before I continue with the challenge. I love how my brain has adapted to reading again.
+
+**Link(s) to work:** n/a.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
